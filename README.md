@@ -1,2 +1,5 @@
 # Data_Analysis
-My work on data analysis libraries of python : Consists of Numpy, Pandas, Scipy
+Workings of Exercises of Udemy course: "Python for Data Science and Machine Learning Bootcamp"
+
+Repository consists:
+  1. Numpy
